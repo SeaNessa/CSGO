@@ -26,3 +26,4 @@ public Action:Command_TeamSpeak(client, args)
  * Gives Text output in color (wow).
  * My First Plugin ever made :)
  */
+ 
